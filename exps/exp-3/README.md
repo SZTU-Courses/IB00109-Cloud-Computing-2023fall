@@ -1,3 +1,3 @@
 -  实验地址 ：https://developer.aliyun.com/adc/scenario/19ee65dd50654258be278eed693ba907?spm=a2c6h.22351405.J_5065256450.4.782d7cfbd7D7VC
 -  实验ddl：2023-10-07 晚上9点
--  实验提交链接： [https://send2me.cn/IB_3Z3zR/SM-AHi6B2aJrfg](https://send2me.cn/ICrzpUw9/Qoe3lF2RmbnhqA)https://send2me.cn/ICrzpUw9/Qoe3lF2RmbnhqA
+-  实验提交链接：https://send2me.cn/ICrzpUw9/Qoe3lF2RmbnhqA
