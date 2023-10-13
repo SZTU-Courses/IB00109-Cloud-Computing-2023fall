@@ -12,3 +12,4 @@ SZTU-Courses
 - 介绍会使用哪种云组件，并介绍功能
 - 介绍系统优势
   
+- 演讲完把ppt提交到https://send2me.cn/10Aqr85h/RTSRLXbByFaTxw
