@@ -13,3 +13,9 @@ SZTU-Courses
 - 介绍系统优势
   
 - 演讲完把ppt提交到https://send2me.cn/10Aqr85h/RTSRLXbByFaTxw
+
+
+# 个人期中作业：
+- 见仓库《个人期中作业》
+- 提交时间： 12.29日前
+- 提交地址：https://send2me.cn/cgJx2RQu/QSuLn4BDDo8RQA
