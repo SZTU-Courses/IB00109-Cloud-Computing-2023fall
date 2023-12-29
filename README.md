@@ -19,3 +19,8 @@ SZTU-Courses
 - 见仓库《个人期中作业》
 - 提交时间： 12.29日前
 - 提交地址：https://send2me.cn/cgJx2RQu/QSuLn4BDDo8RQA
+
+# 个人期末作业：
+- 云计算期末作业
+- 截止时间：2024-01-05 17:01
+- 提交地址：https://send2me.cn/pbxSpfqg/RV6PkeretEt8Rw
